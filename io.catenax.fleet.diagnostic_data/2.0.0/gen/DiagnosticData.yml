@@ -176,8 +176,8 @@ components:
       description: Represents a boolean value (i.e. a "flag").
     urn_samm_io.catenax.fleet.diagnostic_data_2.0.0_Long:
       type: number
-      maximum: 9223372036854775807
       minimum: -9223372036854775808
+      maximum: 9223372036854775807
       description: Characteristic for a long value.
     urn_samm_io.catenax.fleet.diagnostic_data_2.0.0_TypeEnumumeration:
       type: string
